@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "shapi": "0.0.6"
+    "shapi": "0.0.8"
   }
 }
